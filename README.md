@@ -43,7 +43,7 @@ Analyzed the data and came up with a predictive model to determine if a person i
 ## Course - Python Programming, Pandas Data Preparation, Data Visualizations, Data predictions  
 ### Project - Money Miners 
 Perform an exploratory data analysis on the price trends for Bitcoin, Gold, and the S&P 500 and use historical data to forecast future trends for the three commodities to provide actionable insights for an investor trying to figure out the best commodity to invest in.  
-#### Tools used 
+#### Tools used and skills covered 
 * Python programming
 * Pandas
 * Google prophet model 
