@@ -7,7 +7,7 @@
 ## Course Projects 
 
 ### April-2025 
-## Course - Neural Networks Deep Learning, NLP, Transformers , Prompt Engineering 
+## Course - Neural Networks Deep Learning, Image Classification with CNN, NLP(Topic Modeling, RNN), Transformers , Prompt Engineering 
 ### Project - Recommendation engine .
  Built a recommendation engine for buying home and kitchen projects on amazon. Amazon has millions of data about their products and customer reviews. We used pre-trained transformer based models from huggingface and fine tuned them with custom dataset ( in this case amazon customer review question answer dataset) to enhance Question Answering Task.  
  #### Key highlights of the project 
@@ -26,7 +26,7 @@
 
 
 ### Feb-2025 
-## Course -Supervised learning, Unsupervised learning, Regression , Classification, ML Optimization 
+## Course - Unsupervised Machine learning, Supervised learning- Linear Regression , Classification(Linear, NonLinear, MultiClass), ML Optimization 
 ### Project - Lung cancer early detection .
 Analyzed the data and came up with a predictive model to determine if a person is susceptible  to lung cancer based on demographic , lifestyle factors to a certain degree. 
 #### Tools used and skills covered 
@@ -46,6 +46,7 @@ Perform an exploratory data analysis on the price trends for Bitcoin, Gold, and 
 #### Tools used and skills covered 
 * Python programming
 * Pandas
+* Time series forecasting
 * Google prophet model 
 
 ### Oct-2024
